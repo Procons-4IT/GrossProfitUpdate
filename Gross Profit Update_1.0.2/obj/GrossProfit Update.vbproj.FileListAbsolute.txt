@@ -1,0 +1,15 @@
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\bin\Debug\GrossProfit Update.exe
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\bin\Debug\GrossProfit Update.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\bin\Debug\GrossProfit Update.xml
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\GrossProfit Update.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\GrossProfitUpdate.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\GrossProfitUpdate.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\GrossProfit Update.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\GrossProfit Update.exe
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\GrossProfit Update.xml
+G:\International Projects_SAP9.0\Procons-4IT\Cost Updates\Serial Number Cost Update\Gross Profit Update\obj\Debug\GrossProfit Update.pdb
